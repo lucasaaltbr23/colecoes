@@ -13,12 +13,16 @@
       "imagem": "https://github.com/lucasaaltbr23/colecoes/blob/main/Picsart_24-07-08_11-56-31-024.jpg?raw=true"
     },
     {
-      "id": "cineflex",
+      "id": "Cineflex",
       "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_11-42-25-386.jpg"
     },
     {
-      "id": "harry potter",
+      "id": "Harry potter",
       "imagem": "https://github.com/lucasaaltbr23/colecoes/blob/main/Picsart_24-07-08_11-47-19-426.jpg?raw=true"
+    },
+    {
+      "id": "Homem aranha",
+      "imagem": "https://raw.githubusercontent.com/lucasaaltbr23/colecoes/main/Picsart_24-07-08_12-09-10-687.jpg"
     }
   ]
 }
