@@ -1,0 +1,16 @@
+{
+  "colecoes": [
+    {
+      "id": "Coleção 1",
+      "imagem": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/930CC633ED9A074FB9116695B651D71C89C53F649C6F72C13BF42F131FFC95D1/scale?width=440&aspectRatio=1.78&format=webp"
+    },
+    {
+      "id": "Coleção 2",
+      "imagem": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/930CC633ED9A074FB9116695B651D71C89C53F649C6F72C13BF42F131FFC95D1/scale?width=440&aspectRatio=1.78&format=webp"
+    },
+    {
+      "id": "Coleção 3",
+      "imagem": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/930CC633ED9A074FB9116695B651D71C89C53F649C6F72C13BF42F131FFC95D1/scale?width=440&aspectRatio=1.78&format=webp"
+    }
+  ]
+}
