@@ -1,0 +1,44 @@
+{
+  "colecoes": [
+    {
+      "titulo": "Coleção Divertidamente",
+      "logo": "https://media.themoviedb.org/t/p/w500/3DGvV2OornE4rDarXRJRQRjA1r2.png",
+      "poster": "https://image.tmdb.org/t/p/original/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg",
+      "id": "divertidamente",
+      "categorias": [
+        {
+          "titulo": "Divertida Mente - Filmes e Séries",
+          "urls": [
+            "https://obaflix.click/procurar/divertidamente"
+          ]
+        },
+        {
+          "titulo": "Você também pode gostar de",
+          "urls": [
+            "https://obaflix.click/procurar/meu%20malvado%20favorito"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Coleção Kung Fu Panda",
+      "logo": "https://image.tmdb.org/t/p/original/QeAYsp12oO1o9vc1CTBDxxKgJk.png",
+      "poster": "https://image.tmdb.org/t/p/original/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg",
+      "id": "kung fu panda",
+      "categorias": [
+        {
+          "titulo": "Kung Fu Panda - Filmes",
+          "urls": [
+            "https://obaflix.click/procurar/kung%20fu%20panda"
+          ]
+        },
+        {
+          "titulo": "Kung Fu Panda - Séries",
+          "urls": [
+            "https://obaflix.click/procurar/Kung%20Fu%20Panda:%20As%20Patas%20do%20Destino"
+          ]
+        }
+      ]
+    }
+  ]
+}
